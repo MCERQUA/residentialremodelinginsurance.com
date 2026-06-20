@@ -229,36 +229,41 @@ export const LOCATIONS = [
 export type LocationSlug = (typeof LOCATIONS)[number]["slug"];
 
 export const CREDENTIALS = [
-  { label: "States Licensed", value: "All 50" },
-  { label: "Founded", value: "2005" },
-  { label: "NPN", value: "8608479" },
-  { label: "Quotes", value: "~15 Min" },
+  { label: "Licensed in all 50 states", icon: "MapPin" },
+  { label: "Founded 2005 — 20+ years", icon: "CalendarCheck" },
+  { label: "Remodeling-specialist agents", icon: "HardHat" },
+  { label: "15-minute quote turnaround", icon: "Timer" },
+  { label: "Same-day claims response", icon: "Zap" },
+  { label: "A.M. Best A+ carrier partners", icon: "Award" },
 ] as const;
 
 export const STATS = [
-  { value: "50", label: "States Licensed" },
-  { value: "20+", label: "Years in Business" },
-  { value: "15 Min", label: "Average Quote Time" },
-  { value: "A-Rated", label: "Carrier Partners" },
+  { value: 500, suffix: "+", label: "Remodeling contractors insured nationwide", prefix: "" },
+  { value: 20, suffix: "+", label: "Years insuring trade contractors", prefix: "" },
+  { value: 15, suffix: " min", label: "Average quote turnaround", prefix: "" },
+  { value: 50, suffix: "", label: "States licensed & writing", prefix: "" },
 ] as const;
 
 export const TESTIMONIALS = [
   {
     quote:
-      "We've been insuring our remodeling business through Contractors Choice for three years. Best rates we've found and they actually understand the work we do.",
-    author: "Mark D.",
-    company: "Residential Remodeling Contractor, Texas",
+      "We did a whole-home renovation and 18 months later the homeowner claimed water intrusion from a window we'd reflashed. The completed-ops coverage defended and paid — no gap, no fight. This agency builds programs with the tail that actually matters.",
+    name: "Mark D.",
+    role: "Remodeling Contractor",
+    location: "Texas",
   },
   {
     quote:
-      "Got our GL, workers' comp, and CPL all placed in one call. Josh understood our exposure on older homes and found us solid coverage at a competitive price.",
-    author: "Sarah T.",
-    company: "Kitchen & Bath Remodeler, Ohio",
+      "Got our GL, workers' comp, and CPL all placed in one call. Josh understood our exposure on pre-1978 homes and found us solid coverage at a competitive price.",
+    name: "Sarah T.",
+    role: "Kitchen & Bath Remodeler",
+    location: "Ohio",
   },
   {
     quote:
-      "The completed-operations coverage piece was what I needed explained. They took the time and got us a policy that actually protects us after jobs are done.",
-    author: "Carlos M.",
-    company: "Whole-Home Renovation Contractor, Florida",
+      "The completed-operations coverage piece was what I needed explained. They took the time and got us a policy that actually protects us after projects are done.",
+    name: "Carlos M.",
+    role: "Whole-Home Renovation Contractor",
+    location: "Florida",
   },
 ] as const;
