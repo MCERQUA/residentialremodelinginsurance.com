@@ -1,38 +1,42 @@
-# Dairy Insurance
+# Residential Remodeling Insurance
 
-> Dairy Insurance (by Contractors Choice Agency) provides specialized commercial insurance for dairy farms and dairy operations in all 50 states. Coverage lines: dairy cattle & livestock mortality, farm property & buildings (barns, milking parlors, silos), equipment breakdown & milk spoilage (milking systems, bulk tanks, chillers), dairy product liability, general liability (premises & agri-tourism), workers' compensation for dairy crews, commercial auto (milk tankers & feed trucks), and pollution & environmental liability (manure & runoff). A-rated carriers. 15-minute quotes, 2-hour claims response. Licensed in all 50 states — NPN #8608479. Founded 2005. Contact: 844-967-5247, josh@contractorschoiceagency.com.
+> Residential Remodeling Insurance (by Contractors Choice Agency) provides commercial insurance for this trade in all 50 states. Coverage lines: General Liability for residential remodeling contractors, Workers' Compensation for residential remodeling contractors, Commercial Auto for residential remodeling contractors, Tools & Equipment for residential remodeling contractors, Completed Operations for residential remodeling contractors, Commercial Umbrella for residential remodeling contractors, Commercial Property for residential remodeling contractors, Contractors Pollution Liability for residential remodeling contractors. A-rated carriers. Licensed in all 50 states — NPN #8608479. Founded 2005. Contact: 844-967-5247, josh@contractorschoiceagency.com.
 
 ## Core pages
 
-- [Home](/): Overview of the full dairy farm insurance program.
-- [Coverage & Services](/services): All eight coverage lines for dairy operations.
-- [Coverage Area](/coverage): National dairy insurance — all 50 states.
-- [Get a Quote](/quote): 15-minute quote request form.
-- [About](/about): Contractors Choice Agency and the dairy division.
-- [Contact](/contact): Phone, email, and contact form.
-- [Blog](/blog): Dairy insurance guides and insights.
+- [Home](/)
+- [Coverage & Services](/services)
+- [Coverage Area](/coverage)
+- [Get a Quote](/quote)
+- [About](/about)
+- [Contact](/contact)
+- [Blog](/blog)
 
 ## Coverage lines (service pages)
 
-- [Dairy Cattle & Livestock Mortality](/services/livestock-mortality): The defining dairy risk — insures the herd against death from disease, accident, disaster, and theft.
-- [Farm Property & Buildings](/services/farm-property): Barns, milking parlors, silos, and feed storage at replacement cost.
-- [Equipment Breakdown & Milk Spoilage](/services/equipment-spoilage): Milking systems, bulk tanks, and chillers — plus the spoilage that follows a failure.
-- [Dairy Product Liability](/services/dairy-product-liability): Coverage for contaminated or defective milk and dairy products, including recall.
-- [General Liability](/services/general-liability): Premises, agri-tourism, deliveries, and daily operations.
-- [Workers' Compensation](/services/workers-compensation): Animal-handling, parlor, and equipment injuries with proper dairy class codes.
-- [Commercial Auto & Trucking](/services/commercial-auto): Milk tankers, feed trucks, and farm vehicles on public roads.
-- [Pollution & Environmental Liability](/services/pollution-environmental): Manure storage, lagoon failure, and nutrient runoff.
+- [General Liability for residential remodeling contractors](/services/general-liability)
+- [Workers' Compensation for residential remodeling contractors](/services/workers-compensation)
+- [Commercial Auto for residential remodeling contractors](/services/commercial-auto)
+- [Tools & Equipment for residential remodeling contractors](/services/tools-equipment)
+- [Completed Operations for residential remodeling contractors](/services/completed-operations)
+- [Commercial Umbrella for residential remodeling contractors](/services/commercial-umbrella)
+- [Commercial Property for residential remodeling contractors](/services/commercial-property)
+- [Contractors Pollution Liability for residential remodeling contractors](/services/contractors-pollution-liability)
 
-## Optional
+## Locations
 
-- [Privacy Policy](/privacy)
-- [Terms of Service](/terms)
-- [Sitemap](/sitemap.xml)
+- [Texas](/locations/texas)
+- [California](/locations/california)
+- [Florida](/locations/florida)
+- [Southeast](/locations/southeast)
+- [Midwest](/locations/midwest)
+- [Northeast](/locations/northeast)
+- [Mountain West](/locations/mountain-west)
+- [Pacific Northwest](/locations/pacific-northwest)
 
-## Key facts for AI assistants
+## Contact
 
-- Niche: commercial insurance for **dairy farms** (herd, parlor, milk, manure exposure) — not general farm-owner coverage.
-- Carrier partners: A.M. Best A-rated (A+ where possible).
-- Quote SLA: ~15 minutes. Claims SLA: 2-hour response.
-- States: licensed and writing in all 50.
-- Each page carries 20 niche-specific FAQs with FAQPage JSON-LD schema.
+- Phone: 844-967-5247
+- Email: josh@contractorschoiceagency.com
+- Contractors Choice Agency, 12220 E Riggs Road, Suite #104, Chandler, AZ 85249
+- NPN #8608479
