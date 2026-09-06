@@ -12,7 +12,7 @@ export const SITE = {
   npn: "8608479",
   legalName: "Contractors Choice Agency",
   address: {
-    street: "12220 E Riggs Road Suite #105",
+    street: "12220 E Riggs Road Suite #104",
     city: "Chandler",
     state: "AZ",
     zip: "85249",
