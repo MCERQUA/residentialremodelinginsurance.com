@@ -244,26 +244,3 @@ export const STATS = [
   { value: 50, suffix: "", label: "States licensed & writing", prefix: "" },
 ] as const;
 
-export const TESTIMONIALS = [
-  {
-    quote:
-      "We did a whole-home renovation and 18 months later the homeowner claimed water intrusion from a window we'd reflashed. The completed-ops coverage defended and paid — no gap, no fight. This agency builds programs with the tail that actually matters.",
-    name: "Mark D.",
-    role: "Remodeling Contractor",
-    location: "Texas",
-  },
-  {
-    quote:
-      "Got our GL, workers' comp, and CPL all placed in one call. Josh understood our exposure on pre-1978 homes and found us solid coverage at a competitive price.",
-    name: "Sarah T.",
-    role: "Kitchen & Bath Remodeler",
-    location: "Ohio",
-  },
-  {
-    quote:
-      "The completed-operations coverage piece was what I needed explained. They took the time and got us a policy that actually protects us after projects are done.",
-    name: "Carlos M.",
-    role: "Whole-Home Renovation Contractor",
-    location: "Florida",
-  },
-] as const;

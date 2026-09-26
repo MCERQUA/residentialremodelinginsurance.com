@@ -49,11 +49,6 @@ export const COPY = {
   process: {
     lead: "No two-week back-and-forth. A real conversation, real markets, and a program you can actually understand — built around your remodeling operation and crew.",
   },
-  testimonials: {
-    eyebrow: "From remodeling contractors",
-    h2Lead: "Remodelers that found",
-    h2Highlight: "coverage that actually pays",
-  },
   finalCta: {
     h2Lead: "Protect Your Remodeling Business",
     h2Highlight: "with coverage built for the work you do.",
